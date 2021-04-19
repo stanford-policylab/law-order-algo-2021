@@ -1,1 +1,1 @@
-install.packages(c('tidyverse','ROCR','sf','ggmap'))
+install.packages(c('tidyverse','ROCR','ggmap'))
