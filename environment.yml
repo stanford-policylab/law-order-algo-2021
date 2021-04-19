@@ -1,9 +1,0 @@
-name: sf-environment
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - gdal
-  - geos
-  - proj
-  - proj-data

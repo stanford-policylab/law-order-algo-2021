@@ -1,7 +1,6 @@
 libudunits2-dev
-libudunits2-0
-r-cran-udunits2
-udunits-bin
-libudunits2-data
-sqlite3
+libgdal-dev
+libgeos-dev
+libproj-dev
 libsqlite3-dev
+sqlite3
