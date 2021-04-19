@@ -1,4 +1,7 @@
 libudunits2-dev
+libudunits2-0
 r-cran-udunits2
+udunits-bin
+libudunits2-data
 sqlite3
 libsqlite3-dev
